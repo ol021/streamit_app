@@ -52,4 +52,4 @@ if st.button("Predict Loan Default"):
     st.bar_chart(chart_data)
     
 st.markdown("---")
-st.markdown("**Developed by [Your Name]** | Powered by Streamlit")
+st.markdown("**Developed by Odilon Ligan and Nick Snyder** | Powered by Streamlit")
